@@ -1,0 +1,49 @@
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.006213
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.873822
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.000620
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.882833
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.035454
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.105526
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.011188
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.869624
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.026871
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.036991
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.096735
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.022639
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.182678
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.729346
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.141114
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.112735
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.299210
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.136703
+bash-4.4$ ./a.out
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.228081
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.137576
